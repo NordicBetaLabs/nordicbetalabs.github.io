@@ -1,7 +1,7 @@
 # Site settings
 title: Nordic Beta Labs
-description: 'Stockholm, building online software that people need'
-url: 'http://joshgerdes.com/jekyll-uno'
+description: 'Building things that people need.'
+url: 'http://www.nordicbetalabs.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
