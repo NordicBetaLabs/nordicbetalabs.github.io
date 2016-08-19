@@ -1,25 +1,19 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Our Vision"
 date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [purpose]
+tags: [team purpose]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Stockholm, Sweden. Team of 3 and hiring more talented designers and engineers. We build things that people need.
+Our first two products have been adventures in enterprise software and fund our work. If you are interested in
+joining the team here in Stockholm, we should chat!
 
-Jekyll also offers powerful support for code snippets:
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+## Our Products
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Our first product, [AppAction][www.appaction.io], has helped over 5,000 people share their Instagram photos
+across the web, accummulating over 8 billion views on Facebook.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Our second product, [Zipline][www.zipline.chat], helps teams reach their goals in a more open, transparent and effective
+way.
